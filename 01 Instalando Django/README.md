@@ -1,5 +1,5 @@
 # Primeros pasos en Django
-
+```
 1. virtualenv Go
 2. source Go/bin/activate
 3. pip install django
@@ -15,3 +15,4 @@
 13. cd ..
 14. cd GameAcademy/
 15. Dividir Settings mod 3 02_36
+```
