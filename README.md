@@ -1,14 +1,14 @@
 # Go
 
 
-'''
-echo "# Go" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Hydex/Go.git
-git push -u origin master
-'''
+
+*echo "# Go" >> README.md
+*git init
+*git add README.md
+*git commit -m "first commit"
+*git remote add origin https://github.com/Hydex/Go.git
+*git push -u origin master
+
 
 1. echo "# Go" >> README.md
 2. git init
