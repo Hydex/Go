@@ -7,6 +7,8 @@
 * git remote add origin https://github.com/Hydex/Go.git
 * git push -u origin master
 
+*git pull (para actualizar cuando no tienes lo ultimo del hilo no te deja subir)
+
 
 ```
 echo "# Go" >> README.md
